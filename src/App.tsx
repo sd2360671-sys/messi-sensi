@@ -1,7 +1,7 @@
-import { useRef, useState } from "react";
-import CursorFX from "./components/CursorFX";
-import Pricing from "./components/Pricing";
-import About from "./components/About";
+import CursorFX from "./CursorFX";
+import Pricing from "./Pricing";
+import About from "./About";
+import DemoVideo from "./DemoVideo";
 import DemoVideo from "./components/DemoVideo";
 
 function Magnetic({ children }: { children: React.ReactNode }) {
