@@ -2,7 +2,6 @@ import CursorFX from "./CursorFX";
 import Pricing from "./Pricing";
 import About from "./About";
 import DemoVideo from "./DemoVideo";
-import DemoVideo from "./components/DemoVideo";
 
 function Magnetic({ children }: { children: React.ReactNode }) {
   const ref = useRef<HTMLDivElement>(null);
