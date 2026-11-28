@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { categories, planOrder, type Category, type PlanName } from "../data";
+import { categories, planOrder, type Category, type PlanName } from "./data";
 
 export const DISCORD = "https://discord.gg/ZTyrbfNFpX";
 
